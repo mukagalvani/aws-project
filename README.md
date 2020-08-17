@@ -7,6 +7,7 @@ This repo stores code that provide aws services via terraform to consume punk-ap
 ## Starting
 ~~~
 aws configure
+cd terraform
 terraform init
 terraform plan
 terraform apply
